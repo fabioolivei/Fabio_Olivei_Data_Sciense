@@ -25,7 +25,10 @@ Minhas credenciais incluem tecnólogo em Ciência de Dados na instituição de e
 ## Projetos:
 Veja os tutoriais publicados do Fabio Olivei:
 
-
+* **Detecção de Fraude em Cartão de Crédito:** https://bit.ly/2Qr7Nai
+* **Machine Learning para a Detecção de Câncer de Mama:** https://bit.ly/2JEU9xY
+* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
+* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 
 
 
