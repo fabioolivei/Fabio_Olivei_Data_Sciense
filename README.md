@@ -26,8 +26,8 @@ Minhas credenciais incluem tecnólogo em Ciência de Dados na instituição de e
 Veja os tutoriais publicados do Fabio Olivei:
 
 * **Detectando o Câncer de Mama com Machine Learning:** https://9o0l.short.gy/Ca2pXq
-* **Analisando os dados do Airbnb(Lisboa):** https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Analisando_os_Dados_do_Airbnb_(Lisboa).ipynb
-  * **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
+* **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
+* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
 * **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 
 
