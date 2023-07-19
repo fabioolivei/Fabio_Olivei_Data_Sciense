@@ -27,7 +27,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 
 * **Detectando o Câncer de Mama com Machine Learning:** https://9o0l.short.gy/Ca2pXq
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
-
+* **COVID-19 no Brasil e no mundo:** https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/5571d4a21e1c7b9a4eecae87214b02de19ecedab/COVID_19_no_Brasil_e_no_mundo.ipynb
 
 
 
