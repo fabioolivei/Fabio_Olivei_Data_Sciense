@@ -7,7 +7,7 @@ Meu portfólio de projetos de Data Sciense
 </p>
 
 # Fabio Olivei
-<sub>*Lead Data Scientist*>
+<sub>
 
 Como Cientista de Dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Formado em Data Sciense pela Uninter, com cerificação de cursos da Google, IBM e Sigmoidal, fui construindo meu portfólio, criando projetos e desenvolvendo um pensamento crítico e habilidades de resolução de problemas.
 
@@ -27,8 +27,8 @@ Veja os tutoriais publicados do Fabio Olivei:
 
 * **Detectando o Câncer de Mama com Machine Learning:** https://9o0l.short.gy/Ca2pXq
 * **Analisando os dados do Airbnb(Lisboa):** https://shre.ink/HLXA
-* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
-* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+
+
 
 
 
