@@ -7,7 +7,7 @@ Meu portfólio de projetos de Data Sciense
 </p>
 
 # Fabio Olivei
-<sub>
+<sub><lead> 
 
 Como Cientista de Dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Formado em Data Sciense pela Uninter, com cerificação de cursos da Google, IBM e Sigmoidal, fui construindo meu portfólio, criando projetos e desenvolvendo um pensamento crítico e habilidades de resolução de problemas.
 
