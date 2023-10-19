@@ -9,11 +9,11 @@ Meu portfólio de projetos de Data Sciense
 # Fabio Olivei
 <sub><lead> 
 
-Como Cientista de Dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Formado em Data Sciense pela Uninter, com cerificação de cursos da Google, IBM e Sigmoidal, fui construindo meu portfólio, criando projetos e desenvolvendo um pensamento crítico e habilidades de resolução de problemas.
+Como Cientista de Dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Formado em Data Sciense pela Uninter, com certificação de cursos da Google, IBM e Sigmoidal, construo meu portfólio, criando projetos e desenvolvendo um pensamento crítico e habilidades de resolução de problemas.
 
-Minhas credenciais incluem tecnólogo em Ciência de Dados na instituição de ensino superior Uninter, certificações como o curso Profissional Data Analytics do  Google, IBM Data Analytics with Excel and R, e Data Sciense na Prática da Sigmoidal.
+Minhas credenciais incluem tecnólogo em Ciência de Dados na instituição de ensino superior Uninter, certificações como o curso Profissional Data Analytics do  Google, IBM Data Analytics with Excel and R, Data Sciense na Prática e Visão Computacional da Sigmoidal.
 
-**Background in:** Python, Sql, R, Excel e Machine Learning.
+**Background in:** Python, Sql, R, Excel, Power BI, Computer Vision, e Machine Learning.
 
 **Links:**
   
