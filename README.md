@@ -30,6 +30,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 * **COVID-19 no Brasil e no mundo:**  https://shre.ink/9PXH
 * **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
+* **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
 
 
 
