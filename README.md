@@ -31,6 +31,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 * **O Bar Chart Race como ferramenta de visualização de dados:** https://shre.ink/9PSt
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
+* **Diabetes Alert - Diabetes Prediction with Machine Learning:** https://shre.ink/TRlP
 
 
 
