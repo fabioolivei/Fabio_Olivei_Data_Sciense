@@ -32,7 +32,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 * **Top 100 filmes com maiores bilheterias:** https://shre.ink/9PXV
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
 * **Diabetes Alert - Diabetes Prediction with Machine Learning:** https://shre.ink/TRlP
-* **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://encurtador.com.br/kHLVY
+* **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://abre.ai/hx1A
 
 
 
