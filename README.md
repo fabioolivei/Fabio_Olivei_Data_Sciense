@@ -33,6 +33,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 * **Perda de Bilhões Evitadas! O Machine Learning na Batalha Contra Fraudes em Cartões:** https://shre.ink/UpF5
 * **Diabetes Alert - Diabetes Prediction with Machine Learning:** https://shre.ink/TRlP
 * **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
+* **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 
 
 
