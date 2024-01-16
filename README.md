@@ -35,6 +35,7 @@ Veja os tutoriais publicados do Fabio Olivei:
 * **YouTube Insights: Uma Análise dos Canais Mais Bem-Sucedidos da Plataforma:** https://shre.ink/rYcD
 * **Churn VS Machine Learning: Prevendo o Churn com ML:** https://shre.ink/rJDk
 * **Machine Learning e Health Insurance: Impacto na Previsão de Seguros de Saúde:** https://shre.ink/rXwd
+* **A/B Testing Strategies in Fast Food Advertising:** https://shre.ink/rhPB
 
 
 
