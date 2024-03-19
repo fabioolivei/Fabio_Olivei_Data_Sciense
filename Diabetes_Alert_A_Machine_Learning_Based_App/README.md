@@ -15,7 +15,6 @@
 - **Result:** With the deployment of our optimized model, we were able to identify 900 patients as potential diabetes cases, of which 750 actually had the disease and were diagnosed. This represented a significant increase in the detection of diabetes cases, jumping from only 150 diagnoses to 750, thanks to our diabetes prediction model.
 
 
-To develop an ML model for predicting diabetes.For this project, the model was deployed using a Gradio app hosted on Hugging Face Spaces.
 
 Project Organization
 ------------
