@@ -1,7 +1,23 @@
 COVID-19 in Brazil and the world
 ==============================
+* ### [**Notebook here - COVID-19 in Brazil and the world:**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/COVID-19%20in%20Brazil%20and%20the%20world/notebooks/COVID_19_no_Brasil_e_no_mundo.ipynb)
 
-The aim of this analysis is to examine the current data on COVID-19, both in Brazil and worldwide, three years after the pandemic began. We will look into insights through a comprehensive statistical analysis of the disease's situation.
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ftxsVkc5-34nn7Ctz9SuAw.jpeg" />
+
+</div>
+
+**Situation:** Three years into the COVID-19 pandemic, there's a pressing need to assess its impact globally and within Brazil. The pandemic's enduring effects on health, economy, and society necessitate a detailed examination to inform ongoing response strategies and recovery efforts. This analysis aims to provide a comprehensive statistical overview of the current situation of the disease.
+
+**Task:** The primary task is to collect and analyze current data on COVID-19 to understand its progression and impact better. This involves examining infection rates, death tolls, recovery statistics, and other relevant data points from both Brazil and around the world. A critical aspect of this task is to ensure that the data used for analysis is reliable and up-to-date, sourced from reputable organizations and local government reports.
+
+**Action:** To achieve our objectives, the following steps were undertaken:
+- **Data Collection:** Data was meticulously gathered from authoritative sources, including the World Health Organization (WHO), the European Centre for Disease Prevention and Control (ECDC), the Organisation for Economic Co-operation and Development (OECD), the United Nations (UN), and official reports from local governments. This ensured a broad and accurate dataset for analysis.
+- **Data Analysis:** Conducted a comprehensive statistical analysis of the collected data to derive insights on the disease's progression, impact, and current state. This included examining trends over time, comparing the situation across different countries, and evaluating the effectiveness of various response measures.
+- **Visualization:** As a bonus, a bar chart race was created to visualize the cumulative number of recorded deaths due to COVID-19 in 10 selected countries, providing an engaging and informative perspective on the data.
+
+**Result:** Through our rigorous data collection and analysis, we were able to gain valuable insights into the current state of the COVID-19 pandemic, both in Brazil and globally. The statistical analysis highlighted key trends and patterns in the disease's progression, helping to identify areas where efforts have been successful and where challenges remain. The bar chart race offered a unique visual representation of the pandemic's impact, emphasizing the severity and global scale of COVID-19 deaths over time. This comprehensive examination provides stakeholders with crucial information needed to guide future pandemic response and recovery strategies, underlining the importance of continued vigilance and adaptation in the face of COVID-19.
 
 Project Organization
 ------------
