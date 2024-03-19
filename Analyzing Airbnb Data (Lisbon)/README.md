@@ -1,7 +1,26 @@
 Analyzing Airbnb Data (Lisbon)
 ==============================
 
-Based on the data and analyses conducted, we observe that the majority of properties in Lisbon listed on Airbnb are full houses or apartments available for rent. Moreover, there is also a significant number of private rooms available. We can also define the average of the highest and lowest values for the 10 neighborhoods.
+* ### [**Analyzing Airbnb Data (Lisbon):**](https://github.com/fabioolivei/Fabio_Olivei_Data_Sciense/blob/main/Analyzing%20Airbnb%20Data%20(Lisbon)/notebooks/Analisando_os_Dados_do_Airbnb_(Lisboa).ipynb)
+
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/c5fa04297b1d7ac37119d62a88af6d11080adb83f077c3e2a0f647f748ae0db3/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a4a56565f526e38686a6668535f644d613854723559512e706e67" />
+
+</div>
+
+**Situation:** The aim of our study was to explore the Airbnb market in Lisbon, a city with deep historical ties to Brazil, noted for its unique architecture, cuisine, and hospitality. Our investigation sought to provide insights into the types of accommodations available, as well as their distribution across different neighborhoods. The data for this analysis was sourced exclusively from the Inside Airbnb website.
+
+**Task:** Our primary task was to analyze the Airbnb listings in Lisbon to understand the variety of lodging options offered to travelers. This included categorizing the types of accommodations available and assessing their distribution and pricing across the city's neighborhoods. The goal was to offer valuable insights for travelers considering Lisbon as their next destination, as well as for property owners looking to list their properties on Airbnb.
+
+**Action:** To accomplish our objectives, we undertook the following steps:
+- **Data Acquisition:** Gathered all necessary data from the Inside Airbnb website, ensuring a comprehensive dataset that included various types of accommodations across Lisbon.
+- **Analysis:** Conducted detailed analyses to:
+    - Identify the types of Airbnb accommodations available (e.g., full houses/apartments, private rooms).
+    - Assess the distribution of these accommodations across Lisbon's neighborhoods.
+    - Calculate the average of the highest and lowest values for accommodations in the top 10 neighborhoods, providing a pricing overview.
+
+**Result:** Our analysis revealed that the majority of Airbnb properties in Lisbon are full houses or apartments available for rent, reflecting a preference among visitors for private and spacious accommodations. There is also a substantial availability of private rooms, catering to budget-conscious travelers. Through our examination of the top 10 neighborhoods, we were able to define the average high and low pricing, offering potential visitors and property owners valuable insights into the market. This study not only highlights Lisbon's appeal as a travel destination, with its rich cultural offerings and historical significance, but also provides a clear picture of its Airbnb market, assisting travelers in making informed accommodation choices.
 
 Project Organization
 ------------
